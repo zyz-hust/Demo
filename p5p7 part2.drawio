@@ -1,1 +1,595 @@
-<mxfile host="app.diagrams.net" modified="2021-02-06T05:25:31.988Z" agent="5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.1.2 Safari/605.1.15" version="14.2.7" etag="DKcXes1lCD396zOYoVhA" type="github"><diagram id="YXDh1RgWMj3E1kZNYjbv">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-02-06T06:02:01.125Z" agent="5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.1.2 Safari/605.1.15" etag="eWqqoyRZ4yuA8XMhpZTV" version="14.2.7" type="github">
+  <diagram id="YXDh1RgWMj3E1kZNYjbv" name="Page-1">
+    <mxGraphModel dx="906" dy="674" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="dns-67wr5Kfmoust-mMk-74" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="1190" y="776" width="650" height="640" as="geometry" />
+        </mxCell>
+        <mxCell id="dns-67wr5Kfmoust-mMk-75" value="" style="group;labelBackgroundColor=#FFFFFF;labelBorderColor=#FFFFFF;" vertex="1" connectable="0" parent="dns-67wr5Kfmoust-mMk-74">
+          <mxGeometry width="650" height="640" as="geometry" />
+        </mxCell>
+        <mxCell id="dns-67wr5Kfmoust-mMk-76" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="210" y="10" width="600" height="800" as="geometry" />
+        </mxCell>
+        <mxCell id="dns-67wr5Kfmoust-mMk-77" value="" style="group" vertex="1" connectable="0" parent="dns-67wr5Kfmoust-mMk-76">
+          <mxGeometry y="30" width="600" height="770" as="geometry" />
+        </mxCell>
+        <mxCell id="dns-67wr5Kfmoust-mMk-78" value="" style="group" vertex="1" connectable="0" parent="dns-67wr5Kfmoust-mMk-77">
+          <mxGeometry x="40" width="440" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="dns-67wr5Kfmoust-mMk-79" value="" style="group" vertex="1" connectable="0" parent="dns-67wr5Kfmoust-mMk-78">
+          <mxGeometry x="120" y="95" width="280" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="dns-67wr5Kfmoust-mMk-80" value="&lt;font style=&quot;font-size: 24px&quot;&gt;ACCC&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="dns-67wr5Kfmoust-mMk-79">
+          <mxGeometry width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="dns-67wr5Kfmoust-mMk-81" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=4;" edge="1" parent="dns-67wr5Kfmoust-mMk-79">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="60" y="9.5" as="sourcePoint" />
+            <mxPoint x="200" y="10" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dns-67wr5Kfmoust-mMk-82" value="&lt;font style=&quot;font-size: 24px&quot;&gt;GUUU&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="dns-67wr5Kfmoust-mMk-79">
+          <mxGeometry x="190" width="90" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="dns-67wr5Kfmoust-mMk-83" value="" style="group" vertex="1" connectable="0" parent="dns-67wr5Kfmoust-mMk-78">
+          <mxGeometry x="120" y="125" width="280" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="dns-67wr5Kfmoust-mMk-84" value="&lt;font size=&quot;5&quot; color=&quot;#ff6666&quot;&gt;TGGG&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="dns-67wr5Kfmoust-mMk-83">
+          <mxGeometry width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="dns-67wr5Kfmoust-mMk-85" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=4;strokeColor=#FF6666;" edge="1" parent="dns-67wr5Kfmoust-mMk-83">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="60" y="9.5" as="sourcePoint" />
+            <mxPoint x="200" y="10" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dns-67wr5Kfmoust-mMk-86" value="&lt;font style=&quot;font-size: 24px&quot; color=&quot;#ff6666&quot;&gt;CAAA&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="dns-67wr5Kfmoust-mMk-83">
+          <mxGeometry x="195" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="dns-67wr5Kfmoust-mMk-87" value="" style="group" vertex="1" connectable="0" parent="dns-67wr5Kfmoust-mMk-78">
+          <mxGeometry x="120" y="5" width="280" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="dns-67wr5Kfmoust-mMk-88" value="&lt;font style=&quot;font-size: 24px&quot;&gt;ACCC&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="dns-67wr5Kfmoust-mMk-87">
+          <mxGeometry width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="dns-67wr5Kfmoust-mMk-89" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=4;" edge="1" parent="dns-67wr5Kfmoust-mMk-87">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="60" y="9.5" as="sourcePoint" />
+            <mxPoint x="200" y="10" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dns-67wr5Kfmoust-mMk-90" value="&lt;font style=&quot;font-size: 24px&quot;&gt;GUUU&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="dns-67wr5Kfmoust-mMk-87">
+          <mxGeometry x="190" width="90" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="dns-67wr5Kfmoust-mMk-91" value="" style="endArrow=open;html=1;strokeWidth=3;fillColor=#dae8fc;endFill=0;" edge="1" parent="dns-67wr5Kfmoust-mMk-78">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="250" y="25" as="sourcePoint" />
+            <mxPoint x="250" y="95" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dns-67wr5Kfmoust-mMk-92" value="&lt;font face=&quot;Georgia&quot;&gt;RNA&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=16;" vertex="1" parent="dns-67wr5Kfmoust-mMk-78">
+          <mxGeometry x="15" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="dns-67wr5Kfmoust-mMk-93" value="&lt;font face=&quot;Georgia&quot;&gt;RNA&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=16;" vertex="1" parent="dns-67wr5Kfmoust-mMk-78">
+          <mxGeometry x="15" y="90" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="dns-67wr5Kfmoust-mMk-94" value="&lt;font face=&quot;Georgia&quot;&gt;1st cDNA&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=16;" vertex="1" parent="dns-67wr5Kfmoust-mMk-78">
+          <mxGeometry y="120" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="dns-67wr5Kfmoust-mMk-95" value="Reverse transcription" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=16;" vertex="1" parent="dns-67wr5Kfmoust-mMk-78">
+          <mxGeometry x="270" y="55" width="170" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="dns-67wr5Kfmoust-mMk-96" value="&lt;font face=&quot;Comic Sans MS&quot; style=&quot;font-size: 16px&quot;&gt;5&#39;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=16;" vertex="1" parent="dns-67wr5Kfmoust-mMk-78">
+          <mxGeometry x="70" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="dns-67wr5Kfmoust-mMk-97" value="&lt;font face=&quot;Comic Sans MS&quot; style=&quot;font-size: 16px&quot;&gt;5&#39;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=16;" vertex="1" parent="dns-67wr5Kfmoust-mMk-78">
+          <mxGeometry x="70" y="90" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="dns-67wr5Kfmoust-mMk-98" value="&lt;font face=&quot;Comic Sans MS&quot; style=&quot;font-size: 16px&quot;&gt;3&#39;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=16;" vertex="1" parent="dns-67wr5Kfmoust-mMk-78">
+          <mxGeometry x="70" y="120" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="dns-67wr5Kfmoust-mMk-99" value="&lt;font face=&quot;Comic Sans MS&quot; style=&quot;font-size: 16px&quot;&gt;3&#39;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=16;" vertex="1" parent="dns-67wr5Kfmoust-mMk-78">
+          <mxGeometry x="400" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="dns-67wr5Kfmoust-mMk-100" value="&lt;font face=&quot;Comic Sans MS&quot; style=&quot;font-size: 16px&quot;&gt;3&#39;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=16;" vertex="1" parent="dns-67wr5Kfmoust-mMk-78">
+          <mxGeometry x="400" y="90" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="dns-67wr5Kfmoust-mMk-101" value="&lt;font face=&quot;Comic Sans MS&quot; style=&quot;font-size: 16px&quot;&gt;5&#39;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=16;" vertex="1" parent="dns-67wr5Kfmoust-mMk-78">
+          <mxGeometry x="400" y="120" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="dns-67wr5Kfmoust-mMk-102" value="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeWidth=2;fontSize=16;" vertex="1" parent="dns-67wr5Kfmoust-mMk-78">
+          <mxGeometry x="197.5" y="40" width="25" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="dns-67wr5Kfmoust-mMk-103" value="" style="endArrow=open;html=1;strokeWidth=3;fillColor=#dae8fc;endFill=0;" edge="1" parent="dns-67wr5Kfmoust-mMk-77">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="290" y="157.5" as="sourcePoint" />
+            <mxPoint x="290" y="227.5" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="290" y="187.5" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dns-67wr5Kfmoust-mMk-104" value="2 nd strand synthesis &lt;br&gt;with dUTP" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=16;" vertex="1" parent="dns-67wr5Kfmoust-mMk-77">
+          <mxGeometry x="310" y="170" width="170" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="dns-67wr5Kfmoust-mMk-105" value="" style="group" vertex="1" connectable="0" parent="dns-67wr5Kfmoust-mMk-77">
+          <mxGeometry x="50" y="230" width="440" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="dns-67wr5Kfmoust-mMk-106" value="" style="group" vertex="1" connectable="0" parent="dns-67wr5Kfmoust-mMk-105">
+          <mxGeometry x="130" y="35" width="280" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="dns-67wr5Kfmoust-mMk-107" value="&lt;font size=&quot;5&quot; color=&quot;#ff6666&quot;&gt;TGGG&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="dns-67wr5Kfmoust-mMk-106">
+          <mxGeometry width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="dns-67wr5Kfmoust-mMk-108" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=4;strokeColor=#FF6666;" edge="1" parent="dns-67wr5Kfmoust-mMk-106">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="60" y="9.5" as="sourcePoint" />
+            <mxPoint x="200" y="10" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dns-67wr5Kfmoust-mMk-109" value="&lt;font style=&quot;font-size: 24px&quot; color=&quot;#ff6666&quot;&gt;CAAA&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="dns-67wr5Kfmoust-mMk-106">
+          <mxGeometry x="195" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="dns-67wr5Kfmoust-mMk-110" value="" style="group" vertex="1" connectable="0" parent="dns-67wr5Kfmoust-mMk-105">
+          <mxGeometry x="130" y="5" width="280" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="dns-67wr5Kfmoust-mMk-111" value="&lt;font size=&quot;5&quot; color=&quot;#006eaf&quot;&gt;ACCC&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="dns-67wr5Kfmoust-mMk-110">
+          <mxGeometry width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="dns-67wr5Kfmoust-mMk-112" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=4;fillColor=#1ba1e2;strokeColor=#006EAF;" edge="1" parent="dns-67wr5Kfmoust-mMk-110">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="60" y="9.5" as="sourcePoint" />
+            <mxPoint x="100" y="10" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dns-67wr5Kfmoust-mMk-113" value="&lt;font style=&quot;font-size: 24px&quot; color=&quot;#006eaf&quot;&gt;G&lt;/font&gt;&lt;font style=&quot;font-size: 24px&quot;&gt;UUU&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="dns-67wr5Kfmoust-mMk-110">
+          <mxGeometry x="190" width="90" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="dns-67wr5Kfmoust-mMk-114" value="&lt;font size=&quot;5&quot;&gt;U&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="dns-67wr5Kfmoust-mMk-110">
+          <mxGeometry x="100" width="30" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="dns-67wr5Kfmoust-mMk-115" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=4;fillColor=#1ba1e2;strokeColor=#006EAF;exitX=1.1;exitY=0.55;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="dns-67wr5Kfmoust-mMk-110" source="dns-67wr5Kfmoust-mMk-114" target="dns-67wr5Kfmoust-mMk-113">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="270" y="105" as="sourcePoint" />
+            <mxPoint x="310" y="105.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dns-67wr5Kfmoust-mMk-116" value="&lt;font face=&quot;Comic Sans MS&quot; style=&quot;font-size: 16px&quot;&gt;5&#39;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=16;" vertex="1" parent="dns-67wr5Kfmoust-mMk-105">
+          <mxGeometry x="80" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="dns-67wr5Kfmoust-mMk-117" value="&lt;font face=&quot;Comic Sans MS&quot; style=&quot;font-size: 16px&quot;&gt;5&#39;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=16;" vertex="1" parent="dns-67wr5Kfmoust-mMk-105">
+          <mxGeometry x="410" y="30" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="dns-67wr5Kfmoust-mMk-118" value="&lt;font face=&quot;Comic Sans MS&quot; style=&quot;font-size: 16px&quot;&gt;3&#39;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=16;" vertex="1" parent="dns-67wr5Kfmoust-mMk-105">
+          <mxGeometry x="410" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="dns-67wr5Kfmoust-mMk-119" value="&lt;font face=&quot;Comic Sans MS&quot; style=&quot;font-size: 16px&quot;&gt;3&#39;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=16;" vertex="1" parent="dns-67wr5Kfmoust-mMk-105">
+          <mxGeometry x="80" y="30" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="dns-67wr5Kfmoust-mMk-120" value="&lt;font face=&quot;Georgia&quot;&gt;1st cDNA&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=16;" vertex="1" parent="dns-67wr5Kfmoust-mMk-105">
+          <mxGeometry x="5" y="30" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="dns-67wr5Kfmoust-mMk-121" value="&lt;font face=&quot;Georgia&quot;&gt;2nd cDNA&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=16;" vertex="1" parent="dns-67wr5Kfmoust-mMk-105">
+          <mxGeometry width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="dns-67wr5Kfmoust-mMk-122" value="2" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeWidth=2;fontSize=16;" vertex="1" parent="dns-67wr5Kfmoust-mMk-77">
+          <mxGeometry x="240" y="170" width="25" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="dns-67wr5Kfmoust-mMk-123" value="" style="endArrow=open;html=1;strokeWidth=3;fillColor=#dae8fc;endFill=0;" edge="1" parent="dns-67wr5Kfmoust-mMk-77">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="290" y="290" as="sourcePoint" />
+            <mxPoint x="290" y="360" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="290" y="335" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dns-67wr5Kfmoust-mMk-170" value="3" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeWidth=2;fontSize=16;" vertex="1" parent="dns-67wr5Kfmoust-mMk-77">
+          <mxGeometry x="237.5" y="310" width="25" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="dns-67wr5Kfmoust-mMk-172" value="" style="group" vertex="1" connectable="0" parent="dns-67wr5Kfmoust-mMk-77">
+          <mxGeometry x="10" y="530" width="560" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="dns-67wr5Kfmoust-mMk-173" value="&lt;font style=&quot;font-size: 24px&quot; color=&quot;#006eaf&quot;&gt;G&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="dns-67wr5Kfmoust-mMk-172">
+          <mxGeometry x="300" width="30" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="dns-67wr5Kfmoust-mMk-174" value="" style="endArrow=none;html=1;strokeWidth=4;fontSize=16;strokeColor=#FF9933;" edge="1" parent="dns-67wr5Kfmoust-mMk-172">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="210" y="40" as="sourcePoint" />
+            <mxPoint x="270" y="40.5" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="240" y="40.5" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dns-67wr5Kfmoust-mMk-175" value="" style="endArrow=none;html=1;strokeWidth=4;fontSize=16;fillColor=#e3c800;" edge="1" parent="dns-67wr5Kfmoust-mMk-172">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="293" y="40.5" as="sourcePoint" />
+            <mxPoint x="270" y="40.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dns-67wr5Kfmoust-mMk-176" value="" style="endArrow=none;html=1;strokeWidth=4;fontSize=16;fillColor=#60a917;strokeColor=#CC0066;" edge="1" parent="dns-67wr5Kfmoust-mMk-172">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="293" y="40.5" as="sourcePoint" />
+            <mxPoint x="340" y="40.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dns-67wr5Kfmoust-mMk-177" value="" style="group" vertex="1" connectable="0" parent="dns-67wr5Kfmoust-mMk-172">
+          <mxGeometry x="40" y="60" width="420" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="dns-67wr5Kfmoust-mMk-178" value="" style="endArrow=none;html=1;strokeWidth=4;fontSize=16;strokeColor=#FF9933;" edge="1" parent="dns-67wr5Kfmoust-mMk-177">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="70" y="10" as="sourcePoint" />
+            <mxPoint x="130" y="9.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dns-67wr5Kfmoust-mMk-179" value="&lt;font style=&quot;font-size: 24px&quot; color=&quot;#ff6666&quot;&gt;CAAA&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="dns-67wr5Kfmoust-mMk-177">
+          <mxGeometry x="280" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="dns-67wr5Kfmoust-mMk-180" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=4;strokeColor=#FF6666;" edge="1" parent="dns-67wr5Kfmoust-mMk-177">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="210" y="10" as="sourcePoint" />
+            <mxPoint x="290" y="10.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dns-67wr5Kfmoust-mMk-181" value="&lt;font size=&quot;5&quot; color=&quot;#ff6666&quot;&gt;TGGG&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="dns-67wr5Kfmoust-mMk-177">
+          <mxGeometry x="150" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="dns-67wr5Kfmoust-mMk-182" value="" style="endArrow=none;html=1;strokeWidth=4;fontSize=16;fillColor=#fa6800;strokeColor=#B5739D;" edge="1" parent="dns-67wr5Kfmoust-mMk-177">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="360" y="9.5" as="sourcePoint" />
+            <mxPoint x="420" y="10" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dns-67wr5Kfmoust-mMk-183" value="" style="group;strokeWidth=2;" vertex="1" connectable="0" parent="dns-67wr5Kfmoust-mMk-177">
+          <mxGeometry y="10" width="70" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="dns-67wr5Kfmoust-mMk-184" value="" style="endArrow=none;html=1;strokeWidth=4;fontSize=16;fillColor=#e3c800;" edge="1" parent="dns-67wr5Kfmoust-mMk-183">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="40" as="sourcePoint" />
+            <mxPoint x="70" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dns-67wr5Kfmoust-mMk-185" value="" style="endArrow=none;html=1;strokeWidth=4;fontSize=16;strokeColor=#CC0066;" edge="1" parent="dns-67wr5Kfmoust-mMk-183">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="40" as="sourcePoint" />
+            <mxPoint x="-10" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dns-67wr5Kfmoust-mMk-186" value="" style="group" vertex="1" connectable="0" parent="dns-67wr5Kfmoust-mMk-172">
+          <mxGeometry x="460" y="70" width="70" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="dns-67wr5Kfmoust-mMk-187" value="" style="endArrow=none;dashed=1;html=1;strokeColor=#000000;strokeWidth=4;fontSize=16;dashPattern=1 1;" edge="1" parent="dns-67wr5Kfmoust-mMk-186">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="30" as="sourcePoint" />
+            <mxPoint as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dns-67wr5Kfmoust-mMk-188" value="" style="endArrow=none;html=1;strokeWidth=4;fontSize=16;strokeColor=#009900;" edge="1" parent="dns-67wr5Kfmoust-mMk-186">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="70" as="sourcePoint" />
+            <mxPoint x="30" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dns-67wr5Kfmoust-mMk-189" value="5" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeWidth=2;fontSize=16;" vertex="1" parent="dns-67wr5Kfmoust-mMk-172">
+          <mxGeometry x="230" y="120" width="25" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="dns-67wr5Kfmoust-mMk-190" value="" style="endArrow=open;html=1;strokeWidth=3;fillColor=#dae8fc;endFill=0;" edge="1" parent="dns-67wr5Kfmoust-mMk-172">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="279.5" y="100" as="sourcePoint" />
+            <mxPoint x="279.5" y="170" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="279.5" y="145" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dns-67wr5Kfmoust-mMk-191" value="size selection" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=16;" vertex="1" parent="dns-67wr5Kfmoust-mMk-172">
+          <mxGeometry x="340" y="125" width="110" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="dns-67wr5Kfmoust-mMk-192" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=4;fillColor=#1ba1e2;strokeColor=#006EAF;" edge="1" parent="dns-67wr5Kfmoust-mMk-77">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="360" y="510" as="sourcePoint" />
+            <mxPoint x="390" y="510" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dns-67wr5Kfmoust-mMk-193" value="" style="endArrow=none;html=1;strokeWidth=4;fontSize=16;fillColor=#fa6800;strokeColor=#B5739D;" edge="1" parent="dns-67wr5Kfmoust-mMk-77">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="220" y="510" as="sourcePoint" />
+            <mxPoint x="280" y="509.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dns-67wr5Kfmoust-mMk-194" value="" style="endArrow=none;dashed=1;html=1;strokeColor=#000000;strokeWidth=4;fontSize=16;dashPattern=1 1;" edge="1" parent="dns-67wr5Kfmoust-mMk-77">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="197" y="510" as="sourcePoint" />
+            <mxPoint x="220" y="510" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dns-67wr5Kfmoust-mMk-195" value="" style="endArrow=none;html=1;strokeWidth=4;fontSize=16;strokeColor=#009900;" edge="1" parent="dns-67wr5Kfmoust-mMk-77">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="150" y="510" as="sourcePoint" />
+            <mxPoint x="196.66666666666663" y="509.99666666666667" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dns-67wr5Kfmoust-mMk-196" value="&lt;font size=&quot;5&quot; color=&quot;#006eaf&quot;&gt;ACCC&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="dns-67wr5Kfmoust-mMk-77">
+          <mxGeometry x="300" y="500" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="dns-67wr5Kfmoust-mMk-197" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=4;fillColor=#1ba1e2;strokeColor=#006EAF;entryX=-0.1;entryY=0.55;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="dns-67wr5Kfmoust-mMk-77" target="dns-67wr5Kfmoust-mMk-173">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="240" y="541" as="sourcePoint" />
+            <mxPoint x="260" y="550" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dns-67wr5Kfmoust-mMk-208" value="" style="group" vertex="1" connectable="0" parent="dns-67wr5Kfmoust-mMk-77">
+          <mxGeometry x="10" y="300" width="560" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="dns-67wr5Kfmoust-mMk-209" value="" style="group" vertex="1" connectable="0" parent="dns-67wr5Kfmoust-mMk-208">
+          <mxGeometry x="190" y="70" width="280" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="dns-67wr5Kfmoust-mMk-210" value="&lt;font size=&quot;5&quot; color=&quot;#006eaf&quot;&gt;ACCC&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="dns-67wr5Kfmoust-mMk-209">
+          <mxGeometry width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="dns-67wr5Kfmoust-mMk-211" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=4;fillColor=#1ba1e2;strokeColor=#006EAF;" edge="1" parent="dns-67wr5Kfmoust-mMk-209">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="60" y="9.5" as="sourcePoint" />
+            <mxPoint x="80" y="10" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dns-67wr5Kfmoust-mMk-213" value="" style="endArrow=none;html=1;strokeWidth=4;fontSize=16;strokeColor=#FF9933;" edge="1" parent="dns-67wr5Kfmoust-mMk-209">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="230" y="9.5" as="sourcePoint" />
+            <mxPoint x="290" y="10" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dns-67wr5Kfmoust-mMk-130" value="&lt;font size=&quot;5&quot;&gt;U&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="dns-67wr5Kfmoust-mMk-209">
+          <mxGeometry x="80" width="30" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="dns-67wr5Kfmoust-mMk-214" value="" style="endArrow=none;html=1;strokeWidth=4;fontSize=16;fillColor=#fa6800;strokeColor=#B5739D;" edge="1" parent="dns-67wr5Kfmoust-mMk-208">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="110" y="80" as="sourcePoint" />
+            <mxPoint x="170" y="79.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dns-67wr5Kfmoust-mMk-215" value="" style="endArrow=none;html=1;strokeWidth=4;fontSize=16;strokeColor=#FF9933;" edge="1" parent="dns-67wr5Kfmoust-mMk-208">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="110" y="100" as="sourcePoint" />
+            <mxPoint x="170" y="99.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dns-67wr5Kfmoust-mMk-216" value="&lt;font style=&quot;font-size: 24px&quot; color=&quot;#ff6666&quot;&gt;CAAA&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="dns-67wr5Kfmoust-mMk-208">
+          <mxGeometry x="335" y="90" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="dns-67wr5Kfmoust-mMk-217" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=4;strokeColor=#FF6666;" edge="1" parent="dns-67wr5Kfmoust-mMk-208">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="250" y="100" as="sourcePoint" />
+            <mxPoint x="340" y="101" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dns-67wr5Kfmoust-mMk-218" value="&lt;font size=&quot;5&quot; color=&quot;#ff6666&quot;&gt;TGGG&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="dns-67wr5Kfmoust-mMk-208">
+          <mxGeometry x="190" y="90" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="dns-67wr5Kfmoust-mMk-219" value="" style="endArrow=none;html=1;strokeWidth=4;fontSize=16;fillColor=#fa6800;strokeColor=#B5739D;" edge="1" parent="dns-67wr5Kfmoust-mMk-208">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="420" y="99.5" as="sourcePoint" />
+            <mxPoint x="480" y="100" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dns-67wr5Kfmoust-mMk-220" value="" style="group" vertex="1" connectable="0" parent="dns-67wr5Kfmoust-mMk-208">
+          <mxGeometry x="480" y="100" width="70" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="dns-67wr5Kfmoust-mMk-221" value="" style="endArrow=none;dashed=1;html=1;strokeColor=#000000;strokeWidth=4;fontSize=16;dashPattern=1 1;" edge="1" parent="dns-67wr5Kfmoust-mMk-220">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="23.333333333333332" y="16.666666666666668" as="sourcePoint" />
+            <mxPoint as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dns-67wr5Kfmoust-mMk-222" value="" style="endArrow=none;html=1;strokeWidth=4;fontSize=16;strokeColor=#009900;" edge="1" parent="dns-67wr5Kfmoust-mMk-220">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="70" y="50" as="sourcePoint" />
+            <mxPoint x="23.333333333333332" y="16.666666666666668" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dns-67wr5Kfmoust-mMk-223" value="" style="endArrow=classic;html=1;strokeWidth=4;strokeColor=#009900;" edge="1" parent="dns-67wr5Kfmoust-mMk-220">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="43" y="30" as="sourcePoint" />
+            <mxPoint x="30" y="20" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dns-67wr5Kfmoust-mMk-224" value="" style="group" vertex="1" connectable="0" parent="dns-67wr5Kfmoust-mMk-208">
+          <mxGeometry x="480" y="30" width="70" height="65" as="geometry" />
+        </mxCell>
+        <mxCell id="dns-67wr5Kfmoust-mMk-225" value="" style="endArrow=none;html=1;strokeWidth=4;fontSize=16;fillColor=#e3c800;" edge="1" parent="dns-67wr5Kfmoust-mMk-224">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="23.333333333333332" y="33.333333333333336" as="sourcePoint" />
+            <mxPoint y="50" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dns-67wr5Kfmoust-mMk-226" value="" style="endArrow=none;html=1;strokeWidth=4;fontSize=16;fillColor=#60a917;rounded=1;strokeColor=#CC0066;" edge="1" parent="dns-67wr5Kfmoust-mMk-224">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="23.333333333333332" y="33.333333333333336" as="sourcePoint" />
+            <mxPoint x="70" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dns-67wr5Kfmoust-mMk-227" value="" style="endArrow=classic;html=1;strokeWidth=4;strokeColor=#CC0066;" edge="1" parent="dns-67wr5Kfmoust-mMk-224">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="41" y="21" as="sourcePoint" />
+            <mxPoint x="52" y="11" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dns-67wr5Kfmoust-mMk-228" value="" style="group;strokeWidth=2;" vertex="1" connectable="0" parent="dns-67wr5Kfmoust-mMk-208">
+          <mxGeometry x="40" y="40" width="70" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="dns-67wr5Kfmoust-mMk-229" value="" style="endArrow=none;dashed=1;html=1;strokeColor=#000000;strokeWidth=4;fontSize=16;dashPattern=1 1;" edge="1" parent="dns-67wr5Kfmoust-mMk-228">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="46.666666666666664" y="26.66666666666667" as="sourcePoint" />
+            <mxPoint x="70" y="40" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dns-67wr5Kfmoust-mMk-230" value="" style="endArrow=none;html=1;strokeWidth=4;fontSize=16;strokeColor=#009900;" edge="1" parent="dns-67wr5Kfmoust-mMk-228">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint as="sourcePoint" />
+            <mxPoint x="46.666666666666664" y="26.66666666666667" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dns-67wr5Kfmoust-mMk-231" value="" style="endArrow=none;html=1;strokeWidth=2;fontSize=16;" edge="1" parent="dns-67wr5Kfmoust-mMk-228">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="60" as="sourcePoint" />
+            <mxPoint x="60" y="20" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dns-67wr5Kfmoust-mMk-232" value="" style="endArrow=classic;html=1;strokeWidth=4;strokeColor=#009900;" edge="1" parent="dns-67wr5Kfmoust-mMk-228">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="20" y="11" as="sourcePoint" />
+            <mxPoint x="32" y="21" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dns-67wr5Kfmoust-mMk-233" value="" style="group;strokeWidth=2;" vertex="1" connectable="0" parent="dns-67wr5Kfmoust-mMk-208">
+          <mxGeometry x="40" y="100" width="70" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="dns-67wr5Kfmoust-mMk-234" value="" style="endArrow=none;html=1;strokeWidth=4;fontSize=16;fillColor=#e3c800;" edge="1" parent="dns-67wr5Kfmoust-mMk-233">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="46.666666666666664" y="13.333333333333336" as="sourcePoint" />
+            <mxPoint x="70" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dns-67wr5Kfmoust-mMk-235" value="" style="endArrow=none;html=1;strokeWidth=4;fontSize=16;strokeColor=#CC0066;" edge="1" parent="dns-67wr5Kfmoust-mMk-233">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="46.666666666666664" y="13.333333333333336" as="sourcePoint" />
+            <mxPoint y="40" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dns-67wr5Kfmoust-mMk-236" value="" style="endArrow=classic;html=1;strokeWidth=4;strokeColor=#CC0066;" edge="1" parent="dns-67wr5Kfmoust-mMk-233">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="31" y="21" as="sourcePoint" />
+            <mxPoint x="19" y="31" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dns-67wr5Kfmoust-mMk-237" value="&lt;font style=&quot;font-size: 13px ; background-color: rgb(255 , 255 , 255)&quot; color=&quot;#b5739d&quot;&gt;Rd2 SP&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=16;" vertex="1" parent="dns-67wr5Kfmoust-mMk-208">
+          <mxGeometry x="109" y="58" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="dns-67wr5Kfmoust-mMk-238" value="&lt;font size=&quot;2&quot; color=&quot;#b5739d&quot;&gt;&lt;span&gt;Rd2 SP&lt;/span&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=16;" vertex="1" parent="dns-67wr5Kfmoust-mMk-208">
+          <mxGeometry x="420" y="100" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="dns-67wr5Kfmoust-mMk-239" value="&lt;font style=&quot;font-size: 13px&quot; color=&quot;#ff9933&quot;&gt;PBS1&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=16;" vertex="1" parent="dns-67wr5Kfmoust-mMk-208">
+          <mxGeometry x="115" y="100" width="50" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="dns-67wr5Kfmoust-mMk-240" value="&lt;font style=&quot;font-size: 13px&quot; color=&quot;#a680b8&quot;&gt;PBS1&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=16;" vertex="1" parent="dns-67wr5Kfmoust-mMk-208">
+          <mxGeometry x="425" y="58" width="50" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="dns-67wr5Kfmoust-mMk-241" value="" style="endArrow=none;html=1;strokeWidth=2;fontSize=16;" edge="1" parent="dns-67wr5Kfmoust-mMk-208">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="100" y="120" as="sourcePoint" />
+            <mxPoint x="100" y="140" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dns-67wr5Kfmoust-mMk-242" value="&lt;font style=&quot;font-size: 16px&quot;&gt;Index 1&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=16;" vertex="1" parent="dns-67wr5Kfmoust-mMk-208">
+          <mxGeometry x="65" y="20" width="70" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="dns-67wr5Kfmoust-mMk-243" value="&lt;font style=&quot;font-size: 16px&quot;&gt;Index 2&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=16;" vertex="1" parent="dns-67wr5Kfmoust-mMk-208">
+          <mxGeometry x="65" y="140" width="70" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="dns-67wr5Kfmoust-mMk-244" value="&lt;font color=&quot;#009900&quot;&gt;P7&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=16;" vertex="1" parent="dns-67wr5Kfmoust-mMk-208">
+          <mxGeometry x="20" y="10" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="dns-67wr5Kfmoust-mMk-245" value="&lt;font color=&quot;#cc0066&quot;&gt;P5&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=16;" vertex="1" parent="dns-67wr5Kfmoust-mMk-208">
+          <mxGeometry x="20" y="150" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="dns-67wr5Kfmoust-mMk-246" value="5&#39;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=16;" vertex="1" parent="dns-67wr5Kfmoust-mMk-208">
+          <mxGeometry y="20" width="30" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="dns-67wr5Kfmoust-mMk-247" value="5&#39;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=16;" vertex="1" parent="dns-67wr5Kfmoust-mMk-208">
+          <mxGeometry x="550" y="150" width="30" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="dns-67wr5Kfmoust-mMk-166" value="" style="endArrow=open;html=1;strokeWidth=3;fillColor=#dae8fc;endFill=0;" edge="1" parent="dns-67wr5Kfmoust-mMk-208">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="280" y="115" as="sourcePoint" />
+            <mxPoint x="280" y="185" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="280" y="160" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dns-67wr5Kfmoust-mMk-167" value="4" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeWidth=2;fontSize=16;" vertex="1" parent="dns-67wr5Kfmoust-mMk-208">
+          <mxGeometry x="230" y="135" width="25" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="dns-67wr5Kfmoust-mMk-169" value="dUTP degradation" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=16;" vertex="1" parent="dns-67wr5Kfmoust-mMk-208">
+          <mxGeometry x="320" y="140" width="150" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="dns-67wr5Kfmoust-mMk-212" value="&lt;font style=&quot;font-size: 24px&quot; color=&quot;#006eaf&quot;&gt;G&lt;/font&gt;&lt;font style=&quot;font-size: 24px&quot;&gt;UUU&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="dns-67wr5Kfmoust-mMk-208">
+          <mxGeometry x="330" y="70" width="90" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="dns-67wr5Kfmoust-mMk-127" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=4;fillColor=#1ba1e2;strokeColor=#006EAF;" edge="1" parent="dns-67wr5Kfmoust-mMk-208" source="dns-67wr5Kfmoust-mMk-130">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="720" y="-70" as="sourcePoint" />
+            <mxPoint x="340" y="80" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dns-67wr5Kfmoust-mMk-249" value="&lt;span&gt;&lt;font color=&quot;#009900&quot;&gt;P7&lt;/font&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=16;" vertex="1" parent="dns-67wr5Kfmoust-mMk-77">
+          <mxGeometry x="560" y="415" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="dns-67wr5Kfmoust-mMk-248" value="&lt;font color=&quot;#cc0066&quot;&gt;P5&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=16;" vertex="1" parent="dns-67wr5Kfmoust-mMk-77">
+          <mxGeometry x="560" y="300" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="dns-67wr5Kfmoust-mMk-252" value="" style="group" vertex="1" connectable="0" parent="dns-67wr5Kfmoust-mMk-77">
+          <mxGeometry x="50" y="720" width="420" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="dns-67wr5Kfmoust-mMk-253" value="" style="endArrow=none;html=1;strokeWidth=4;fontSize=16;strokeColor=#FF9933;" edge="1" parent="dns-67wr5Kfmoust-mMk-252">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="70" y="10" as="sourcePoint" />
+            <mxPoint x="130" y="9.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dns-67wr5Kfmoust-mMk-254" value="&lt;font style=&quot;font-size: 24px&quot; color=&quot;#ff6666&quot;&gt;CAAA&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="dns-67wr5Kfmoust-mMk-252">
+          <mxGeometry x="280" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="dns-67wr5Kfmoust-mMk-255" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=4;strokeColor=#FF6666;" edge="1" parent="dns-67wr5Kfmoust-mMk-252">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="210" y="10" as="sourcePoint" />
+            <mxPoint x="290" y="10.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dns-67wr5Kfmoust-mMk-256" value="&lt;font size=&quot;5&quot; color=&quot;#ff6666&quot;&gt;TGGG&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="dns-67wr5Kfmoust-mMk-252">
+          <mxGeometry x="150" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="dns-67wr5Kfmoust-mMk-257" value="" style="endArrow=none;html=1;strokeWidth=4;fontSize=16;fillColor=#fa6800;strokeColor=#B5739D;" edge="1" parent="dns-67wr5Kfmoust-mMk-252">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="360" y="9.5" as="sourcePoint" />
+            <mxPoint x="420" y="10" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dns-67wr5Kfmoust-mMk-258" value="" style="group;strokeWidth=2;" vertex="1" connectable="0" parent="dns-67wr5Kfmoust-mMk-252">
+          <mxGeometry y="10" width="70" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="dns-67wr5Kfmoust-mMk-259" value="" style="endArrow=none;html=1;strokeWidth=4;fontSize=16;fillColor=#e3c800;" edge="1" parent="dns-67wr5Kfmoust-mMk-258">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="40" as="sourcePoint" />
+            <mxPoint x="70" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dns-67wr5Kfmoust-mMk-260" value="" style="endArrow=none;html=1;strokeWidth=4;fontSize=16;strokeColor=#CC0066;" edge="1" parent="dns-67wr5Kfmoust-mMk-258">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="40" as="sourcePoint" />
+            <mxPoint x="-10" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dns-67wr5Kfmoust-mMk-261" value="" style="endArrow=none;dashed=1;html=1;strokeColor=#000000;strokeWidth=4;fontSize=16;dashPattern=1 1;" edge="1" parent="dns-67wr5Kfmoust-mMk-77">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="500" y="729.9999999999998" as="sourcePoint" />
+            <mxPoint x="470" y="729.9999999999998" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dns-67wr5Kfmoust-mMk-262" value="" style="endArrow=none;html=1;strokeWidth=4;fontSize=16;strokeColor=#009900;" edge="1" parent="dns-67wr5Kfmoust-mMk-77">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="540" y="729.9999999999998" as="sourcePoint" />
+            <mxPoint x="500" y="729.9999999999998" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dns-67wr5Kfmoust-mMk-207" value="&lt;font style=&quot;font-size: 24px&quot;&gt;dUTP method&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="dns-67wr5Kfmoust-mMk-76">
+          <mxGeometry x="205" width="160" height="20" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
